@@ -1,5 +1,7 @@
 package dam.m11.edicion2017;
-
+/**
+ * Clase pojo para
+ */
 import java.util.Scanner;
 
 /**
